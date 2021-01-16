@@ -2,10 +2,10 @@
 main:
  
   - title: "CV"
-    url: /cv/
+    url: https://josephkbs.github.io//cv/
 
   - title: "Publications"
-    url: /publications/
+    url: https://josephkbs.github.io//publications/
 
  #  - title: "Talks"
  #    url: /talks/    
@@ -14,7 +14,7 @@ main:
 #    url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://josephkbs.github.io//portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
