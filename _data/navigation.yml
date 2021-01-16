@@ -16,8 +16,8 @@ main:
   - title: "Portfolio"
     url: https://josephkbs.github.io/_portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
 
     
